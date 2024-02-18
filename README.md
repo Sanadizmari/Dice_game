@@ -36,7 +36,7 @@ The computer plays by the same rules as the player, except it will always turn o
 Enjoy playing!
 
 # Author 
-SHJA AZIMI
+sana dizmari
 
 
 # Other
