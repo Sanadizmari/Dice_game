@@ -38,7 +38,3 @@ Enjoy playing!
 # Author 
 sana dizmari
 
-
-# Other
-An acknowledgement ought to be given to Anas Bashir for his endeavors in rectifying and improving the subject matter. 
-[@an4s911](https://github.com/an4s911)
